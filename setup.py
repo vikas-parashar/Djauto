@@ -8,4 +8,7 @@ setup(name='djauto',
       author_email='svnitvikas@gmai.com',
       license='MIT',
       packages=['djauto'],
+      entry_points = {
+        'console_scripts': ['djauto=djauto.auto:main'],
+        },
       zip_safe=False)

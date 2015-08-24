@@ -1,5 +1,5 @@
 # Django-project-generator
-Create Django projects the easy way!
+Create Django projects the easy way. From installing django to creating app for project, One command, that's all!
 
 ## Install
 ```python

@@ -1,4 +1,5 @@
 # Django-project-generator
+[![PyPI version](https://badge.fury.io/py/djauto.svg)](http://badge.fury.io/py/djauto)
 Create Django projects the easy way. From installing django to creating app for project, One command, that's all!
 
 ## Install

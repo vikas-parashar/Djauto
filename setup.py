@@ -8,7 +8,7 @@ setup(name='djauto',
       author_email='svnitvikas@gmai.com',
       license='MIT',
       classifiers=[
-              'Development Status :: 1 - Alpha',
+              'Development Status :: 3 - Alpha',
               'Environment :: Web Environment',
               'Intended Audience :: Developers',
               'Operating System :: OS Independent',

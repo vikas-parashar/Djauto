@@ -1,4 +1,8 @@
 # Django-project-generator
+
+[![PyPI](https://img.shields.io/pypi/v/nine.svg)](https://pypi.python.org/pypi/djauto)
+[![PyPI](https://img.shields.io/pypi/dw/Django.svg)](https://pypi.python.org/pypi/djauto)
+
 Create Django projects the easy way. From installing django to creating app for project, One command, that's all!
 
 ## Install

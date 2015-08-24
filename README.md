@@ -1,11 +1,15 @@
-# Django-project-automator
+# Django-project-generator
 Create Django projects the easy way!
 
-Simply run
+## Install
 ```python
-  python auto.py PROJECT_NAME
+  pip install djauto
+```
+## How to use it?
+```python
+  djauto PROJECT_NAME APP_NAME
 ```
 ## What script will do?
 1. Download latest version of [Django](https://www.djangoproject.com/) using pip
 2. Create a django project named "PROJECT_NAME" in current directory.
-3. Ask if you want to create a app? If us then create and add the app in INSTALLED_APPS in `settings.py`.
+3. Create and add the app named "APP_NAME" in INSTALLED_APPS in `settings.py`.

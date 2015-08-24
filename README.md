@@ -13,3 +13,6 @@ Create Django projects the easy way. From installing django to creating app for 
 1. Download latest version of [Django](https://www.djangoproject.com/) using pip
 2. Create a django project named "PROJECT_NAME" in current directory.
 3. Create and add the app named "APP_NAME" in INSTALLED_APPS in `settings.py`.
+
+
+## The MIT License (MIT)

@@ -5,7 +5,7 @@ def readme():
         return f.read()
 
 setup(name='djauto',
-      version='1.0',
+      version='1.0.1',
       description='Django project generator',
       long_description=readme(),
       url='https://github.com/vikas-parashar/django-project-generator',

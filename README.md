@@ -1,6 +1,7 @@
 # Django-project-generator
 [![PyPI](https://img.shields.io/pypi/v/djauto.svg?style=flat-square)](https://pypi.python.org/pypi/djauto/)
 [![PyPI](https://img.shields.io/pypi/pyversions/Djauto.svg?style=flat-square)](https://pypi.python.org/pypi/djauto/)
+[![PyPI](https://img.shields.io/pypi/dd/djauto.svg?style=flat-square)](https://pypi.python.org/pypi/djauto)
 
 Create Django projects the easy way. From installing django to creating github repository for project, One command, that's all!
 

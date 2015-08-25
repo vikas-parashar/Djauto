@@ -1,5 +1,6 @@
 # Django-project-generator
-[![PyPI version](https://badge.fury.io/py/djauto.svg)](http://badge.fury.io/py/djauto)
+[![PyPI](https://img.shields.io/pypi/v/djauto.svg?style=flat-square)](https://pypi.python.org/pypi/djauto/)
+[![PyPI](https://img.shields.io/pypi/pyversions/Djauto.svg?style=flat-square)](https://pypi.python.org/pypi/djauto/)
 
 Create Django projects the easy way. From installing django to creating app for project, One command, that's all!
 
@@ -21,4 +22,5 @@ Create Django projects the easy way. From installing django to creating app for 
 1. `git` integration.
 
 
-## The MIT License (MIT)
+## License
+[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://pypi.python.org/pypi/djauto/)

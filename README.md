@@ -16,5 +16,9 @@ Create Django projects the easy way. From installing django to creating app for 
 2. Create a django project named "PROJECT_NAME" in current directory.
 3. Create and add the app named "APP_NAME" in INSTALLED_APPS in `settings.py`.
 
+## To do
+1. `virtualenv` integration.
+1. `git` integration.
+
 
 ## The MIT License (MIT)

@@ -4,14 +4,25 @@
 
 Create Django projects the easy way. From installing django to creating app for project, One command, that's all!
 
-## Install
+## Installation
+In `virtualenv`simply install using pip.You can setup `virtualenv`+`virtualenvwrapper` environment using [virtualenv-burrito](https://github.com/brainsik/virtualenv-burrito).
 ```python
   pip install djauto
 ```
+If you are not root user prefix `sudo`
+```python
+  sudo pip install djauto
+```
+
 ## How to use it?
 ```python
   djauto PROJECT_NAME APP_NAME
 ```
+or
+```python
+  sudo djauto PROJECT_NAME APP_NAME
+```
+
 ## What script will do?
 1. Download latest version of [Django](https://www.djangoproject.com/) using pip
 2. Create a django project named "PROJECT_NAME" in current directory.

@@ -30,4 +30,6 @@ setup(name='djauto',
       entry_points = {
         'console_scripts': ['djauto=djauto.auto:main'],
         },
+      test_suite='nose.collector',
+      tests_require=['nose'],
       zip_safe=False)

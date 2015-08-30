@@ -58,6 +58,7 @@ def create_repo(username, repo_name, repo_description):
 
 def main():
     # print "installing django.."
+    subprocess.call('pip install future', shell= True)
     subprocess.call("pip install django", shell=True)
 
     # print "creating project", project_name, "..."

@@ -38,7 +38,7 @@ or
 ## Todo
 - ~~`git` integration.~~
 - `virtualenv` integration.
-- ~~python 3.x support.~~
+- python 3.x support.
 
 
 ## License
